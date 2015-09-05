@@ -12,6 +12,7 @@ This software is not recommended for general usage.....
 This  script  will call the OS to actually perform the ping
 
 This software receives two parameters:
+
 a) Prefix to scan in the format 2001:db8::/64 (subnet, not host)
 b) Number of simultaneous processes it can run (MAXPINGS) 
 
